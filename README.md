@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DhruvKaravadiya&theme=tokyonight&color=brightgreen&style=flat&label=Profile+Views)
 
-## About meq
+## About me
 🔭&nbsp;I’m currently working on **Getting 6 stars on HackerRank->Problem Solving**
 <br/>🌱&nbsp;Learning about **DS implemented in JAVA , DBMS , JabaScript , Android Development**
 <br/>💡&nbsp;I'm interested about **Development , Problem Solving , Anime , Movies , Productive Procastination**
