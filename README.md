@@ -3,7 +3,7 @@
 </div>
 <a href="https://www.github.com/DhruvKaravadiya" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 <a href="mailto:Dhruv Karavadiya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
-<a href="https://www.linkedin.com/in/Dhruv Karavadiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/DhruvKaravadiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="ttps://www.instagram.com/dhruv_karavadiya" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DhruvKaravadiya&theme=tokyonight&color=brightgreen&style=flat&label=Profile+Views)
