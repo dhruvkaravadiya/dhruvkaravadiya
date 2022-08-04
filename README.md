@@ -14,13 +14,12 @@
 <br/>🤝&nbsp;I like to collaborate in **Beginner Projects on Android DAevelopment**
 <br/>⚡&nbsp;Fun fact **: To improve is to change. To be perfect is to change often**
 <br/>📫&nbsp;Reach me [karavadiadhruv22@gmail.com](mailto:karavadiadhruv22@gmail.com)
-<img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva" alt="canva Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java" alt="java Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25"><img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">
+<img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">
+<img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva" alt="canva Badge" height="25">;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">
+<img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java" alt="java Badge" height="25">
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">
 ## GitHub Analytics
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvKaravadiya&theme=tokyonight&show_icons=true&count_private=true&hide=stars,commits">
