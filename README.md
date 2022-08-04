@@ -5,7 +5,6 @@
 <a href="mailto:Dhruv Karavadiya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/dhruv-karavadiya-6181581b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="ttps://www.instagram.com/dhruv_karavadiya" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=DhruvKaravadiya&theme=tokyonight&color=brightgreen&style=flat&label=Profile+Views)
 ## About me
 🔭&nbsp;I’m currently working on **Getting 6 stars on HackerRank->Problem Solving**
 <br/>🌱&nbsp;Learning about **DS implemented in JAVA , DBMS , JabaScript , Android Development**
