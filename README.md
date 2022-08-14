@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvkaravadiya&show_icons=true&title_color=ff7800&text_color=ffffff&bg_color=000000&locale=en" alt="dhruvkaravadiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkaravadiya&theme=dark" alt="dhruvkaravadiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkaravadiya&theme=dark" alt="dhruvkaravadiya" title_color=ff7800&text_color=ffffff&bg_color=000000 /></p>
