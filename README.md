@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkaravadiya&label=Profile%20views&color=00b3ff&style=flat" alt="dhruvkaravadiya" /> </p>
 
-- 🔭 I’m currently working on [Getting 6-Stars on Problem-Solving @HackerRank](https://github.com/DhruvKaravadiya)
+- 🔭 I’m currently working on [Getting 6-Stars on Problem-Solving @HackerRank](https://www.hackerrank.com/DhruvKaravadiya)
 
 - 🌱 I’m currently learning **Javascript , Android Development , Data Structures in Java**
 
