@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Begineer Android Development Projects , Web Design Projects**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**,**React JS**
 
 - 📫 How to reach me **karavadiadhruv22@gmail.com**
 
