@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkaravadiya&label=Profile%20views&color=00b3ff&style=flat" alt="dhruvkaravadiya" /> </p>
 
-- 🔭 I’m currently working on [ Beat - Music - Webapp ] **https://github.com/DhruvKaravadiya/beat-music-webapp**
+- 🔭 I’m currently working on [ Beat - Music - Webapp ]<a href ="https://github.com/DhruvKaravadiya/beat-music-webapp">Open Repository</>
 
 - 🌱 I’m currently learning **Javascript , Android Development , Data Structures in Java**
 
