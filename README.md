@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java**,**React JS** ,**SQL**,**NO-SQL*
+- 💬 Ask me about **Java**,**React JS** ,**SQL**,**NO-SQL**
 
 - 📫 How to reach me **karavadiadhruv22@gmail.com**
 
