@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [ Beat - Music - Webapp ]  <a href ="https://github.com/DhruvKaravadiya/beat-music-webapp">Open Repository</a>
 
-- 🌱 I’m currently learning **Javascript , Android Development , Data Structures in Java**
+- 🌱 I’m currently learning **Node JS , MongoDB Advanced , Data Structures in Java**
 
-- 👯 I’m looking to collaborate on **Begineer Android Development Projects , Web Design Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java**,**React JS**
+- 💬 Ask me about **Java**,**React JS** ,**SQL**,***NO-SQL*
 
 - 📫 How to reach me **karavadiadhruv22@gmail.com**
 
