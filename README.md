@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ Beat - Music - Webapp ]  <a href ="https://github.com/DhruvKaravadiya/beat-music-webapp">Open Repository</a>
 
-- 🌱 I’m currently learning **Node JS , Flutter , Algorithms in Java**
+- 🌱 I’m currently learning **Node JS , Algorithms in Java**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
