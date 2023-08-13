@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS Badge">
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black" alt="Babel Badge">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" alt="Webpack Badge">
 <img src="https://custom-icon-badges.demolab.com/badge/-Parcel-blue?style=for-the-badge&logo=Parcel&logoColor=white" alt="Parcel Badge">
-
+</div>
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvkaravadiya&show_icons=true&theme=tokyonight&title_color=ff7800&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="dhruvkaravadiya" /></p>
 
