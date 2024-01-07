@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkaravadiya&label=Profile%20views&color=00b3ff&style=flat" alt="dhruvkaravadiya" /> </p>
 
-- 🔭 I’m currently working on [ WIDEO - Video-Sharing-App ]  <a href ="https://github.com/DhruvKaravadiya/WIDEO">Open Repository</a>
+- 🔭 I’m currently working on <a href ="https://github.com/dhruvkaravadiya/food-ordering-app">Food Delivery App</a>
 
-- 🌱 I’m currently learning **Node JS , Algorithms in Java**
+- 🌱 I’m currently exploring **DevOps**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java**,**React JS** ,**SQL**,**NO-SQL**
+- 💬 Ask me about **Java**,**React JS** ,**Noed.js** , **SQL**,**NO-SQL**
 
-- 📫 How to reach me **karavadiadhruv22@gmail.com**
+- 📫 How to reach me **dhruvkaravadiya22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
