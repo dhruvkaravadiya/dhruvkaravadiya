@@ -18,6 +18,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,cs,bash,css,html,react,nextjs,nodejs,express,redux,mongodb,redis,mysql,sqlite,docker,linux,git,nginx,jest,tailwind,bootstrap,materialui,babel,vite,figma,vscode,webpack,postman,idea&perline=11)](https://skillicons.dev)
 
 ## Top Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Chew-Chew)](https://github.com/dhruvkaravadiya/Chew-Chew)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Open-Graph-Scrapper)](https://github.com/dhruvkaravadiya/Open-Graph-Scrapper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=queue-overflow)](https://github.com/dhruvkaravadiya/queue-overflow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Chew-Chew&theme=dark)](https://github.com/dhruvkaravadiya/Chew-Chew)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Open-Graph-Scrapper&theme=dark)](https://github.com/dhruvkaravadiya/Open-Graph-Scrapper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=queue-overflow&theme=dark)](https://github.com/dhruvkaravadiya/queue-overflow)
