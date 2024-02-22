@@ -1,10 +1,9 @@
 <h1 align="left">Hi 👋, I'm Dhruv Karavadiya</h1>
-<h4 align="left">I am a Full-Stack Developer with a 6 months of experience and worked with technologies like React.js, Next.js, Node.js, </h4>
+<h4 align="left">I am a Full-Stack Developer with a 6 months of experience and worked with technologies like React.js, Next.js, Node.js, Express.js, AWS, Docker. Currently I am pursuiing my Bachelors in Computer Science. I am looking for Full Stack Developer Roles.</h4>
 
-- 🔭 I’m currently working on <a href ="https://github.com/dhruvkaravadiya/food-ordering-app">Chew Chew</a>
+- 🔭 I’m currently working on <a href ="https://github.com/dhruvkaravadiya/Chew-Chew">Chew Chew</a> and  <a href ="https://github.com/dhruvkaravadiya/queue-overflow">Queue-Overflow</a> 
 - 🌱 I’m currently exploring **DevOps**
-- 👯 I’m looking to collaborate on **Web Development Projects**
-- 💬 Ask me about **Java**,**React JS** ,**Node.js** , **SQL**,**NO-SQL**
+- 👯 I’m looking to collaborate on **Full-Stack Developer Roles**
 
 <h3>Connect with me: </h3>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhruvkaravadiya22@gmail.com">
