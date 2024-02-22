@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dhruv Karavadiya</h1>
-<h3 align="center">Self-motivated Computer Science student with keen interest in coding.</h3>
+<h1 align="left">Hi 👋, I'm Dhruv Karavadiya</h1>
+<h3 align="left">Self-motivated Computer Science student with keen interest in coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvkaravadiya&label=Profile%20views&color=00b3ff&style=flat" alt="dhruvkaravadiya" /> </p>
-
-- 🔭 I’m currently working on <a href ="https://github.com/dhruvkaravadiya/food-ordering-app">Food Delivery App</a>
-
+- 🔭 I’m currently working on <a href ="https://github.com/dhruvkaravadiya/food-ordering-app">Chew Chew</a>
 - 🌱 I’m currently exploring **DevOps**
-
 - 👯 I’m looking to collaborate on **Web Development Projects**
-
 - 💬 Ask me about **Java**,**React JS** ,**Noed.js** , **SQL**,**NO-SQL**
+
 <h3>Connect with me: </h3>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhruvkaravadiya22@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
