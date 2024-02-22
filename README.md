@@ -19,5 +19,5 @@
 
 ## Top Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Chew-Chew&theme=dark)](https://github.com/dhruvkaravadiya/Chew-Chew)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Open-Graph-Scrapper&theme=dark)](https://github.com/dhruvkaravadiya/Open-Graph-Scrapper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=WIDEO&theme=dark)](https://github.com/dhruvkaravadiya/WIDEO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=queue-overflow&theme=dark)](https://github.com/dhruvkaravadiya/queue-overflow)
