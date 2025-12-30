@@ -1,68 +1,84 @@
-## 🚀 Welcome to My Digital Space!
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Dhruv%20Karavadiya&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Dhruv%20Karavadiya&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20|%20B.Tech%20CS%20Graduate&descSize=25&descAlignY=60" />
 </p>
 
-<h1 align="center">Hi, I'm Dhruv Karavadiya 👋</h1>
-<h3 align="center">Full-Stack Developer | Open Source Enthusiast | DevOps Explorer</h3>
-
----
-
-### 🧑‍💻 About Me:
-- 🔭 Currently working on **[Chew Chew](https://github.com/dhruvkaravadiya/Chew-Chew)** & **[Queue-Overflow](https://github.com/dhruvkaravadiya/queue-overflow)**
-- 🌱 Exploring **DevOps** & **Cloud Technologies**
-- 💼 Looking for **Full-Stack Developer Roles**
-- 🎓 **B.Tech in Computer Science** (8.75 CGPA)
-
----
-
-## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cs,bash,css,html,react,nextjs,nodejs,express,redux,mongodb,redis,mysql,sqlite,docker,linux,git,nginx,jest,tailwind,bootstrap,materialui,babel,vite,figma,vscode,webpack,postman,idea&perline=11"/>
+  <img src="https://img.shields.io/badge/8.75-CGPA-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Explorer-orange?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🔥 My GitHub Stats
+### ⚡ The Snapshot
+- 🎓 **Academic:** B.Tech in Computer Science Graduate (**8.75 CGPA**).
+- 🏢 **Experience:** Former **SDE Intern at PW-Skills** (Optimized backend systems & architected UI).
+- 🚀 **Current:** Building **Chew Chew** (Food-Tech) & **Queue-Overflow** (Dev Community).
+- 🧠 **Problem Solving:** **300+ DSA Problems** crushed on LeetCode/GFG.
+
+---
+
+### 🛠️ Tech Universe
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvkaravadiya&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,java,py,mongodb,redis,postgres,docker,aws,linux,git,tailwind,jest,figma&perline=9" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+### 🏗️ Engineering Showroom
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/dhruvkaravadiya/Chew-Chew">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Chew-Chew&theme=tokyonight&border_radius=10" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/dhruvkaravadiya/queue-overflow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=queue-overflow&theme=tokyonight&border_radius=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/dhruvkaravadiya/WIDEO">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=WIDEO&theme=tokyonight&border_radius=10" />
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkaravadiya&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Performance Metrics
+
 <p align="center">
-  <a href="https://github.com/dhruvkaravadiya/Chew-Chew">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Chew-Chew&theme=dark"/>
-  </a>
-  <a href="https://github.com/dhruvkaravadiya/WIDEO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=WIDEO&theme=dark"/>
-  </a>
-  <a href="https://github.com/dhruvkaravadiya/queue-overflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=queue-overflow&theme=dark"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvkaravadiya&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvkaravadiya&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvkaravadiya&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+### 📬 Let's Collaborate
 <p align="center">
-  <a href="mailto:dhruvkaravadiya22@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/dhruvkaravadiya">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <a href="mailto:dhruvkaravadiya22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhruvkaravadiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Transforming+Ideas+into+Code;Building+Scalable+Cloud+Systems;Full-Stack+Architect;Lifelong+Learner" />
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning!&center=true&width=500&height=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-
----
-
-> **"Coding is not just about writing code, it's about solving real-world problems and making an impact."** 🚀
