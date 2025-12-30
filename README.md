@@ -1,56 +1,29 @@
-# Dhruv Karavadiya
-### Full-Stack Engineer | B.Tech Computer Science (8.75 CGPA)
+🚀 Welcome to My Digital Space!
 
-<p align="left">
-  <a href="https://linkedin.com/in/dhruvkaravadiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhruvkaravadiya22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dhruvkaravadiya"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+<h1 align="center">Hi, I'm Dhruv Karavadiya 👋</h1> <h3 align="center">Full-Stack Developer | Open Source Enthusiast | DevOps Explorer</h3>
+🧑‍💻 About Me:
 
----
+    🔭 Currently working on Chew Chew & Queue-Overflow
 
-### 🎓 Professional Summary
-* **Education:** B.Tech in Computer Science from Darshan University (**8.75 CGPA**).
-* **Experience:** Former **SDE Intern at PW-Skills**, focused on scalable web solutions.
-* **Expertise:** Specializing in the **MERN Stack**, Next.js, and Cloud Infrastructure (DevOps).
-* **Focus:** Building high-performance applications with clean, maintainable code.
+    🌱 Exploring DevOps & Cloud Technologies
 
----
+    💼 Looking for Full-Stack Developer Roles
 
-### 🛠️ Technical Stack
+    🎓 Pursuing Bachelor’s in Computer Science
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Java, Python, C++, SQL |
-| **Frontend** | React.js, Next.js 14, Redux, Tailwind CSS, Material UI |
-| **Backend** | Node.js, Express, REST APIs, Microservices |
-| **Databases** | MongoDB, Redis, PostgreSQL, MySQL |
-| **DevOps/Tools** | Docker, AWS, Nginx, Git, Linux, Jest, Postman |
+🚀 Tech Stack
 
----
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cs,bash,css,html,react,nextjs,nodejs,express,redux,mongodb,redis,mysql,sqlite,docker,linux,git,nginx,jest,tailwind,bootstrap,materialui,babel,vite,figma,vscode,webpack,postman,idea&perline=11"/> </p>
+🔥 My GitHub Stats
 
-### 🏗️ Featured Engineering
-* **[Chew-Chew](https://github.com/dhruvkaravadiya/Chew-Chew):** Real-time food delivery infrastructure with Redis caching and Stripe integration.
-* **[Queue-Overflow](https://github.com/dhruvkaravadiya/queue-overflow):** A full-stack QnA platform built with Next.js 14, Clerk Auth, and Zod validation.
-* **[WIDEO](https://github.com/dhruvkaravadiya/WIDEO):** Video sharing platform featuring optimized streaming and Cloudinary media management.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruvkaravadiya&show_icons=true&theme=radical"/> </p>
+🌟 Featured Projects
 
----
+<p align="center"> <a href="https://github.com/dhruvkaravadiya/Chew-Chew"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=Chew-Chew&theme=dark"/> </a> <a href="https://github.com/dhruvkaravadiya/WIDEO"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=WIDEO&theme=dark"/> </a> <a href="https://github.com/dhruvkaravadiya/queue-overflow"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvkaravadiya&repo=queue-overflow&theme=dark"/> </a> </p>
+📬 Connect With Me
 
-### 📈 GitHub Ecosystem
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvkaravadiya&show_icons=true&theme=vibrant&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkaravadiya&layout=compact&theme=vibrant&hide_border=true" height="150" />
-</p>
+<p align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dhruvkaravadiya22@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://linkedin.com/in/dhruvkaravadiya"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
 
----
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning!&center=true&width=500&height=50"> </p>
 
-### 🏆 Key Highlights
-* Solved **300+ DSA problems** across LeetCode and GeeksForGeeks.
-* Reduced server response latency by **30%** in projects using Redis optimization.
-* Actively contributing to Open Source and exploring **Cloud-Native** technologies.
-
----
-
-<p align="center">
-  <i>"Committed to engineering excellence and continuous learning."</i>
-</p>
+    "Coding is not just about writing code, it's about solving real-world problems and making an impact." 🚀
